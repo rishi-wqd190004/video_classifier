@@ -1,3 +1,5 @@
+## Some details about the code above:
+Need to download weights from the YOLOv3 website- https://pjreddie.com/darknet/yolo/ and add the path similar in the script
 Sample project for facial recognition with prediction of a person in the near future.
 
 Taking a person's height as a second filter will be able to guess the person's details and create a ledger to save his travel for further searches/safety.
